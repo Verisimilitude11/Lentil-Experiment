@@ -1,5 +1,5 @@
-# Lentil-Experiment
-The following research was conducted by Piyush Acharya & Rishabh Vakil in December 2021
+# Lentil Experiment
+The preceding research was conducted by Piyush Acharya & Rishabh Vakil in December 2021
 
 This scientific paper answers the following question: To what extent do different concentrations of vinegar (%) affect the growth of lentil seeds over 9 days as measured by the length of the roots (mm)?
 
